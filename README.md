@@ -10,23 +10,22 @@ Users can discover songs, explore moods, save favorites, rate tracks, write pers
 
 ##  Screenshots
 
-###  Home
+<p align="center">
+  <img src="./screenshots/home.png" width="22%" />
+  <img src="./screenshots/vault.png" width="22%" />
+  <img src="./screenshots/moods.png" width="22%" />
+  <img src="./screenshots/profile.png" width="22%" />
+</p>
 
-<img src="./screenshots/home.png" width="280" />
-
-###  Vault
-
-<img src="./screenshots/vault.png" width="280" />
-
-###  Moods
-
-<img src="./screenshots/moods.png" width="280" />
-
-###  Profile
-
-<img src="./screenshots/profile.png" width="280" />
-
----
+<p align="center">
+  <b>Home</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Vault</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Moods</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Profile</b>
+</p>
 
 ##  Features
 
