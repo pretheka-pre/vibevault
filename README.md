@@ -127,9 +127,10 @@ vibevault/
 ├── package.json
 ├── tsconfig.json
 ├── README.md
-│
 ├── assets/
-│   └── icon.png
+│   ├── icon.png
+│   ├── splash-icon.png
+│   └── Android icon assets
 │
 ├── screenshots/
 │   ├── home.png
